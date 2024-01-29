@@ -1,0 +1,27 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-ftdi.cfg"
+],
+  "files.associations": {
+    "client.h": "c",
+    "esp_wifi.h": "c",
+    "user_client.h": "c",
+    "user_uart.h": "c",
+    "freertos.h": "c",
+    "app_unittest.h": "c",
+    "tmc2300.h": "c",
+    "tmcx300.h": "c",
+    "*.tcc": "c",
+    "chrono": "c",
+    "random": "c",
+    "atomic": "c",
+    "bsp_as5600.h": "c",
+    "esp_log.h": "c",
+    "i2c.h": "c",
+    "socket.h": "c"
+  },
+  "idf.portWin": "COM11",
+  "idf.flashType": "UART"
+}

@@ -1,0 +1,24 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-ftdi.cfg"
+  ],
+  "files.associations": {
+    "socket.h": "c",
+    "sockets.h": "c",
+    "uart.h": "c",
+    "*.tcc": "c",
+    "random": "c",
+    "type_traits": "c",
+    "functional": "c",
+    "regex": "c",
+    "*.inc": "c",
+    "cstring": "c",
+    "bsp_uart.h": "c",
+    "app_unittest.h": "c",
+    "string_view": "c"
+},
+"idf.portWin": "COM5",
+"idf.flashType": "UART"
+}
